@@ -50,7 +50,7 @@ Para validar nuestro formulario, vamos a tener  que hacer lo siguiente:
     - sólo números
     - letras y números
 
-3. Validar el formulario cuando lo queramos  mandar
+3. Validar el formulario cuando lo queramos mandar
 4. CSS:
     - Mostrar un estilo de error en los campos que tengan problemas
     - Mostrar un mensaje de error en los campos que tengan problemas
@@ -63,7 +63,7 @@ Para validar nuestro formulario, vamos a tener  que hacer lo siguiente:
     **
    `const name = document.formulario.nombre.value;`
 
-   TODO: Ahora crear lo mismo para las variables:
+   TO DO: Ahora crear lo mismo para las variables:
    - ciudad
    - comportamiento
    - descripcionRegalo
