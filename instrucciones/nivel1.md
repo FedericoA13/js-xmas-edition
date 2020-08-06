@@ -36,7 +36,7 @@ Más info sobre el tema en: https://developer.mozilla.org/en-US/docs/Web/Guide/H
 
 * Validación del lado del servidor:
 
-Con validar del lado del cliente no alcanza, también hay que validar del lado
+Con validar del lado del cliente no alcanza, también hay que validar del lado 
 del servidor. Esto es porque javascript se puede deshabilitar, o incluso
 pueden hacer una llamada HTTP a su servidor sin usar un navegador. 
 
